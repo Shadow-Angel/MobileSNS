@@ -16,6 +16,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".InicioSns"></activity>
+        <activity android:name=".EmpleadosActivity"></activity>
+        <activity android:name=".UsuariosActivity"></activity>
+        <activity android:name=".ReportActivity"></activity>
     </application>
 
 </manifest>
